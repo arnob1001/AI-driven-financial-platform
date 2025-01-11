@@ -4,6 +4,9 @@
 .env
 .env.*
 
+# Ignore node_modules
+node_modules/
+
 # dependencies
 /node_modules
 /.pnp
