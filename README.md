@@ -1,5 +1,5 @@
 # FinanceFlow - README
-
+![Screenshot 2025-03-24 180946](https://github.com/user-attachments/assets/20ec7c2e-2dc8-43e5-b67e-7d0dab4731bd)
 ## Overview
 
 **FinanceFlow** is a modern, AI-powered financial platform designed to help users track their daily and monthly income and expenses. With features like receipt scanning, recurring transaction management, email alerts, and detailed financial health reports powered by smart charts, FinanceFlow simplifies personal finance management. It offers both short-term and long-term insights into your financial situation, making it easier to make informed decisions.
